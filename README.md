@@ -25,6 +25,6 @@
     Usage and License:
     This program is free to use and develop,
     as long as the copyright is respected.
-    All aura images used in this program were,
+    All aura images/icons used in this program were,
     created by me, Robert William Blennerhed.
     https://www.rpiforalla.se/
