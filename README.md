@@ -1,5 +1,5 @@
     WARNING: Use at your own risk!
-    This migraine aura simulation is developed,
+    This migraine aura simulator is developed,
     by Robert William Blennerhed & ChatGPT.
     It is intended for educational purposes only.
     
