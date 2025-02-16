@@ -9,7 +9,7 @@
     effects that may occur from viewing the aura simulation.
     
 
-    Migraine Aura Simulation v1.0.
+    Migraine Aura Simulator v1.0.
     Developed by Robert William Blennerhed, Migraineur.
     
     I have suffered from migraine aura since I was 7 years old.
