@@ -14,7 +14,7 @@ if os.path.exists(icon_path):
     pygame.display.set_icon(icon)
 
 
-# Migraine Aura Simulation
+# Migraine Aura Simulator
 # Collaboration between Robert William Blennerhed & ChatGPT
 # Developed in Python using Pygame
 
@@ -44,7 +44,7 @@ settings = load_settings()
 status_message = "Settings loaded successfully." if os.path.exists(settings_file) else "Using default settings."
 screen_width, screen_height = 800, 600  # Ökat fönsterstorlek
 screen = pygame.display.set_mode((screen_width, screen_height))
-pygame.display.set_caption("Migraine Aura Simulation")
+pygame.display.set_caption("Migraine Aura Simulator")
 
 # Teckensnitt
 font = pygame.font.Font(None, 30)
@@ -58,7 +58,7 @@ menu_spacing = 50
 # About-text
 about_text = [
     "WARNING: Use at your own risk!",
-    "This migraine aura simulation is developed",
+    "This migraine aura simulator is developed",
     "by Robert William Blennerhed & ChatGPT.",
     "It is intended for educational purposes only.",
     "",
@@ -68,7 +68,7 @@ about_text = [
     "effects that may occur from viewing the aura simulation.",
     "",
 
-    "Migraine Aura Simulation v1.0",
+    "Migraine Aura Simulator v1.0",
     "Developed by Robert William Blennerhed",
     "",
     "I have suffered from migraine aura since I was 7 years old.",
