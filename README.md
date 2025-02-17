@@ -1,5 +1,5 @@
     WARNING: Use at your own risk!
-    This migraine aura simulator is developed,
+    This migraine aura simulation is developed,
     by Robert William Blennerhed & ChatGPT.
     It is intended for educational purposes only.
     
@@ -9,7 +9,7 @@
     effects that may occur from viewing the aura simulation.
     
 
-    Migraine Aura Simulator v1.0.
+    Migraine Aura Simulation v1.0.
     Developed by Robert William Blennerhed, Migraineur.
     
     I have suffered from migraine aura since I was 7 years old.
